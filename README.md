@@ -107,7 +107,7 @@ Gunakan Arduino IDE / PlatformIO
 Board:
 
 ```
-ESP32 Dev Module
+WEMOS LOLIN 32
 ```
 
 ---
