@@ -223,5 +223,5 @@ Proyek ini menunjukkan implementasi nyata:
 
 ## 👩‍💻 Link Video
 
-Youtube : 
+Youtube : https://youtu.be/Ms1VvG6i5vw
 
